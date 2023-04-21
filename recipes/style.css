@@ -1,0 +1,27 @@
+/* Universal style file for all recipes */
+
+.header {
+  text-align: center;
+  background-color: rgb(169, 126, 108);
+  color: #fff;
+}
+
+.description,
+.ingredients,
+.steps {
+  background-color: bisque;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.ingredients > ul > li {
+  font-family: monospace;
+  font-size: 16px;
+}
+.ingredients > ul > strong {
+  font-size: 18px;
+}
+
+.steps > ol > li,
+.description > p {
+  font-family: Arial, Helvetica, sans-serif;
+}
