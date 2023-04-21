@@ -2,4 +2,4 @@
 
 Odin Recipes Project
 
-Simple Recipe page using HTML5 in The Odin Project course.
+Simple recipe website using semantic HTML5 and CSS in The Odin Project course.
